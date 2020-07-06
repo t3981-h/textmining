@@ -1,0 +1,10 @@
+"0","docs.s <- tm_map(docs, stemDocument)"
+"0","print(writeLines(as.character(docs.s[[11]])) + writeLines(as.character(docs.s[[25]])) + writeLines(as.character(docs.s[[50]])))"
+"1","use echo person medic servic good sign yr old father now doesn’t worri go town get medic realli great servic ’m grate
+"
+"1","help see stock level think “run low” trigger come wrong time
+"
+"1","last month order paracetamol order surgeri sent therefor need request alreadi last month suppli
+"
+"1","integer(0)
+"

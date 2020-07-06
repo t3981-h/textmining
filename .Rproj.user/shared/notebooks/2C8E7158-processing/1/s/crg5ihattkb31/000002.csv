@@ -1,0 +1,8 @@
+"0","# Create the document term matrix"
+"0","dtm <- TermDocumentMatrix(docs)"
+"0","mat <- as.matrix(dtm)"
+"0",""
+"0","# sort by frequency and print the first 10"
+"0","v <- sort(rowSums(mat), decreasing=TRUE)"
+"0","d <- data.frame(word = names(v), freq=v)"
+"0","head(d, 10)"

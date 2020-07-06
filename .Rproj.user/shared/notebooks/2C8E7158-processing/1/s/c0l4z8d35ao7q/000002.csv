@@ -1,0 +1,1 @@
+"0","wordcloud(words = dcr.df$word, freq = dcr.df$freq, min.freq = 2, max.words = 250, random.order = FALSE, rot.per = 0.35, colors=brewer.pal(8, ""Paired""), scale=c(4,.5))"
